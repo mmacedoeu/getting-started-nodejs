@@ -1,6 +1,4 @@
 box: node:4.2.6-slim
-services: 
-  - rethinkdb:2.3
 dev:
   steps:
     - npm-install
